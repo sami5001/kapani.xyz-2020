@@ -9,7 +9,17 @@ module.exports = {
     // You can overwrite values here that are used for the SEO component
     // Of course you can also add new values here to query them like usual
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/master/themes/gatsby-theme-cara/gatsby-config.js
+    siteTitle: `KAPANI IT Systems and Solutions`,
     siteTitleAlt: `KAPANI IT Systems and Solutions`,
+    siteHeadline: `KAPANI IT Systems and Solutions`,
+    siteUrl: `https://kapani.xyz`,
+    siteDescription: `Your all-in-one solution for IT.`,
+    siteLanguage: `en`,
+    siteImage: `/Kapani-cyan.png`,
+    author: `@hsami`,
+    basePath,
+
+
   },
   plugins: [
     {
